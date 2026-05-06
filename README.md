@@ -107,5 +107,5 @@ todo-app/
 
 * 代码行数：约 3000 行
 
-## 致谢
-
+## 联系我
+* zjsthm@gmail.com
